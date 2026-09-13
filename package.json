@@ -1,6 +1,6 @@
 {
   "name": "dsh-trajectory",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "DSH 研究主线图：研究项目进展 DAG + 实验实时进度 + agent 主动维护",
   "license": "MIT",
   "type": "module",
